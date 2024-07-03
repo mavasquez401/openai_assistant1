@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "minimist": "^1.2.8",
+    "openai": "^4.52.2",
+    "optimist": "^0.5.2",
+    "pip": "^0.0.1",
+    "python": "^0.0.4"
+  }
+}
